@@ -9,6 +9,10 @@
 * `1_get_embeds_age_group.ipynb` — генерация **102 различных наборов эмбеддингов** с использованием PTLS.
 * `2_CoLES_metric_analysis.ipynb` — анализ **корреляции метрик сходства эмбеддингов** с изменением качества при их объединении.
 * `3_PTLS_main_exp.ipynb`, `4_PTLS_main_exp_2.ipynb` — **основные эксперименты** по объединению эмбеддингов на основе транзакционных данных.
+* `BERT_metrics_calculation.ipynb` 
+* `ROBERTA_metrics_calculation.ipynb` 
+* `SimSCE_metrics_calculation.ipynb`
+  - расчет метрик схожести слоев для разных моделей (BERT, RoBERTa, SimSCE). Структура ноутбуков одинакова, различаются используемые модели.
 * `BERT_layer_aggregation.ipynb`  
 * `ROBERTA_layer_aggregation.ipynb`  
 * `SimSCE_layer_aggregation_mean_pooling.ipynb`  
