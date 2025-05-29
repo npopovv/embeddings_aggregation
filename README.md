@@ -12,7 +12,7 @@
 * `BERT_metrics_calculation.ipynb` 
 * `ROBERTA_metrics_calculation.ipynb` 
 * `SimSCE_metrics_calculation.ipynb`
-  - расчет метрик схожести слоев для разных моделей (BERT, RoBERTa, SimSCE). Структура ноутбуков одинакова, различаются используемые модели.
+  — расчет метрик схожести слоев для разных моделей (BERT, RoBERTa, SimSCE). Структура ноутбуков одинакова, различаются используемые модели.
 * `BERT_layer_aggregation.ipynb`  
 * `ROBERTA_layer_aggregation.ipynb`  
 * `SimSCE_layer_aggregation_mean_pooling.ipynb`  
